@@ -21,7 +21,7 @@
 ````
 # Tampilan Result Crack
 ````php
-[OK] ID\PwFB
+[OK] ID|PwFB
 Cookie FB : 
 Web & Aplikasi AKTIF
 
