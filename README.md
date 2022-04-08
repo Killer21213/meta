@@ -49,7 +49,7 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests bs4 futures
 $ pip install cython
-$ rm -rf roy-brute
+$ rm -rf meta
 $ termux-setup-storage
 $ git clone https://github.com/ROY-ID/meta
 $ cd meta
