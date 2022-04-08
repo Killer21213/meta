@@ -54,5 +54,5 @@ $ termux-setup-storage
 $ git clone https://github.com/ROY-ID/meta
 $ cd meta
 $ git pull
-$ python meta.py
+$ python run.py
 ````
