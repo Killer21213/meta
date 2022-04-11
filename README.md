@@ -27,14 +27,13 @@ Web & Aplikasi AKTIF
 
 [OK] ID|PwFb
 Cookie FB :
-
-[CP] ID|PwFB
 ````
 # Metode Crack
 ````php
-Method free (OFF Apk Aktif)
-Method mbasic (OFF Apk Aktif )
-Method mbasic (ON Cookie & Apk Aktif)
+Metode 1 (ON Cookie) Two User Agent
+Metode 2 (ON Cookie) User Agent Random
+Metode 3 (ON Cookie) User Agent Random
+Metode 4 (ON Cookie & Apk) One User Agent Focus
 ````
 # Sandi Otomoatis
 ````php
