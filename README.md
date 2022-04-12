@@ -6,17 +6,13 @@
 ````
 # Fitur Crack
 ````php
-1. Crack Akun Instagram
-2. Crack Teman Publik
-3. Crack Random ID Massal
-4. Crack Anggota Grup
-5. Crack Total Followers
-6. Crack Like Postingan
-7. Crack Komentar Postingan
-8. Setting User Agent
-9. Checkpoint Detedtor
-10. Cek Hasil Crack
-11. Info & Upgrade SC
+01. Crack Teman Publik
+02. Crack Random ID Massal
+03. Setting User Agent
+04. Checkpoint Detedtor
+05. Cek Hasil Crack
+06. Info (Provider, Jaringan, Divace)
+07. Info Update & Upgrade SC
 00. Logout (Hapus Cookie)
 ````
 # Tampilan Result Crack
@@ -30,10 +26,9 @@ Cookie FB :
 ````
 # Metode Crack
 ````php
-Metode 1 (ON Cookie) Two User Agent
-Metode 2 (ON Cookie) User Agent Random
-Metode 3 (ON Cookie) User Agent Random
-Metode 4 (ON Cookie & Apk) One User Agent Focus
+Metode 1 (ON Cookie)
+Metode 2 (ON Cookie)
+Metode 3 (ON Cookie & Apk)
 ````
 # Sandi Otomoatis
 ````php
