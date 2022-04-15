@@ -26,9 +26,12 @@ Cookie FB :
 ````
 # Metode Crack
 ````php
-Metode 1 (ON Cookie)
-Metode 2 (ON Cookie)
-Metode 3 (ON Cookie & Apk)
+Metode 1 Simpel (OK & CP)
+Metode 2 ON Cookoe (OK & CP)
+Metode 3 ON Cookie & Apk (OK & CP)
+Metode 4 Simpel (OK Only)
+Metode 5 ON Cookie (OK Only)
+Metode 6 ON Cookie & Apk (OK Only)
 ````
 # Sandi Otomoatis
 ````php
