@@ -1,8 +1,7 @@
 # 3 Metode Login SC
 ````php
-1. Token FB
-2. Cookies FB
-3. ID/Username & Password
+1. Token FB AEEB
+2. Convert Cookie ke Token AEEB
 ````
 # Fitur Crack
 ````php
