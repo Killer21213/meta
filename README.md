@@ -1,43 +1,22 @@
-# 3 Metode Login SC
+# Metode Login SC
 ````php
-1. Token FB AEEB
-2. Convert Cookie ke Token AEEB
+1. Token FB EAAB
+2. Convert Cookie ke Token EAAB
 ````
 # Fitur Crack
 ````php
 01. Crack Teman Publik
 02. Crack Random ID Massal
-03. Setting User Agent
-04. Checkpoint Detedtor
-05. Cek Hasil Crack
-06. Info (Provider, Jaringan, Divace)
-07. Info Update & Upgrade SC
-00. Logout (Hapus Cookie)
-````
-# Tampilan Result Crack
-````php
-[OK] ID|PwFB
-Cookie FB : 
-Web & Aplikasi AKTIF
-
-[OK] ID|PwFb
-Cookie FB :
+03. Checkpoint Detedtor
+04. Cek Hasil Crack
+05. Info Update SC
+00. Logout (Hapus Token/Cookie)
 ````
 # Metode Crack
 ````php
-Metode 1 Simpel (OK & CP)
-Metode 2 ON Cookoe (OK & CP)
-Metode 3 ON Cookie & Apk (OK & CP)
-Metode 4 Simpel (OK Only)
-Metode 5 ON Cookie (OK Only)
-Metode 6 ON Cookie & Apk (OK Only)
-````
-# Sandi Otomoatis
-````php
-nama
-nama lengkap
-nama123
-nama12345
+Metode (free)
+Metode (mbasic)
+Metode (mobile)
 ````
 # Perintah Menjalankan SC
 ````php
